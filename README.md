@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syed-samadali01
 - 👀 I’m interested in developing website and webapps 
 - 🌱 I’m currently learning  a  mern stack develeopment
-- 💞️ I’m looking to collaborate on  industrial projec
+- 💞️ I’m looking to collaborate on  industrial projects
 - 📫 contact me on samadali0125@gmail.com
 
 <!---
